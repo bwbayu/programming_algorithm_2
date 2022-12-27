@@ -1,0 +1,8 @@
+7. 
+INSERT mahasiswa 0001 Aldian A;
+INSERT mahasiswa 0002 Carla B;
+INSERT mahasiswa 0003 Freya A-;
+UPDATE mahsiswa 0002 Carla B+;
+INSERT mahasiswa 0004 Techi A+;
+DELETE mahasiswa 0003;
+DELETE mahasiswa 0002;
