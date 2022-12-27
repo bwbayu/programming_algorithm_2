@@ -1,0 +1,26 @@
+presentasi
+ENTRY user 015 byebye 0001 120;
+ENTRY character 0004 sorcerer lightning_ice;
+
+UBAH user 014 RMYA 0002 76;
+UBAH character 0002 Arbalist ;
+
+HAPUS character 0007 wizard blasting_fire;
+HAPUS user 020 hihi 0001 80;
+
+TAMPIL user;
+TAMPIL character
+TAMPIL item;
+
+UBAH ENTRY user 011 slavery 0001 150;
+ENTRY UBAH character 0008 Spirit Remnant;
+
+HAPUS ENTRY character 0010 Dragon Spear;
+ENTRY HAPUS user 004 ucla 0003 120;
+
+UBAH HAPUS user 013 anobisha 0003 130;
+UBAH TAMPIL character;
+
+TAMPIL user character;
+
+jangan lupa bahagia hari ini;
